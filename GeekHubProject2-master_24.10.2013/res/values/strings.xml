@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">фрагменты</string>
+    <string-array name="List_array">
+        <item>back</item>
+        <item>Ex. Animat.</item>
+    </string-array>
+</resources>

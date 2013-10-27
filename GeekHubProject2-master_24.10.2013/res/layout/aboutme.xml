@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvAboutOrg" android:layout_gravity="center|top"
+            android:text="I am a student. Now I am on a 5 course CSTU and parallel to learn programming on android. My mail: qwer2491@gmail.com"/>
+</LinearLayout>
